@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/i3wm.git]
+checkout = vcsh clone git@github.com:ajkavanagh/vcsh_i3wm.git i3wm
