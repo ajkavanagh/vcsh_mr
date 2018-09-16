@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/secured-config-files.git]
+checkout = vcsh clone keybase://private/ajkavanagh/secured-config-files secured-config-files
